@@ -1,0 +1,11 @@
+Index: src/entity/EditArticles.java
+===================================================================
+diff --git a/src/entity/EditArticles.java b/src/entity/EditArticles.java
+--- a/src/entity/EditArticles.java	
++++ b/src/entity/EditArticles.java	
+@@ -7,4 +7,5 @@
+     private BigDecimal curStopLoss; /* Số lượng hiện tại */
+     private BigDecimal oldTakeProfit;
+     private BigDecimal curTakeProfit;
++    
+ }
